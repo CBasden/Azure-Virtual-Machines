@@ -17,12 +17,7 @@ This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 
 - Windows 10 (22H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
