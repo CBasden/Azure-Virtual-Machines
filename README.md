@@ -59,3 +59,17 @@ This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 5. While creating your Username and Password, make sure to meet all requirements, then write that information somewhere safe just in case you forget it. Under Licensing, review the document then click the box to confirm.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/CW1g9Bl.png"/>
+</p>
+<p>
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/hcYTT01.png"/>
+</p>
+<p>
+6. There are 7 categories. If you don't know or understand anything from the other 6 categories, leave it just the way it is or Google the information so you'll get a better idea of it all. Click "Review + Create" and ensure that all the information is accurate, then click "Create" and wait a few minutes for your Virtual Machine to be created.
+</p>
+<br />
