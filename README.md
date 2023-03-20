@@ -25,15 +25,16 @@ This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 <img src="https://i.imgur.com/BaaoidL.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Go to the website (portal.azure.com). You can either type "Virtual Machines" in the search bar above or click the Virtual Machines link.
+  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NNSKZkl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Click the "Create" that has a drop down arrow next to it then click "Azure Virtual Machine". Make sure that all columns with the red star next to it are filled out properly or else you won't be able to proceed.
 </p>
 <br />
 
