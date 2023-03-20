@@ -3,7 +3,6 @@
 
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 
 
