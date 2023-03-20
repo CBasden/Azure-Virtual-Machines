@@ -52,3 +52,10 @@ This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 4. Pick the size(determines how fast or slow your VM will run. The better the size, more money it'll cost so keep that in mind).
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/soRa5Wh.png"/>
+</p>
+<p>
+5. While creating your Username and Password, make sure to meet all requirements, then write that information somewhere safe just in case you forget it. Under Licensing, review the document then click the box to confirm.
+</p>
+<br />
