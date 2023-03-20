@@ -45,3 +45,10 @@ This tutorial explains how to create a Virtual Machine on Microsoft Azure.<br />
 3. Select the resource group & make a Virtual Machine name. Select the region for the Virtual Machine & the operating system you want for your Virtual Machine.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/dSdgNPD.png"/>
+</p>
+<p>
+4. Pick the size(determines how fast or slow your VM will run. The better the size, more money it'll cost so keep that in mind).
+</p>
+<br />
